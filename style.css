@@ -285,7 +285,8 @@ section{
 .img-hero img{
     position: relative;
     width: 400px;
-    left: 10px;
+    left: 50px;
+    top: 50px;
     height: 400px;
     z-index: 10;
 }
@@ -298,7 +299,7 @@ section{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    padding: 2rem;
+    padding: 4rem;
 }
 
 .rotate-text span{
